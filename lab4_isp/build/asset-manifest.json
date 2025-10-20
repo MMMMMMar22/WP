@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cd4de5da.css",
+    "main.js": "/static/js/main.b1482183.js",
+    "static/media/vr-user.svg": "/static/media/vr-user.be80831a830f8d5695aef95fbba77bad.svg",
+    "static/media/blog5.svg": "/static/media/blog5.db3cff8d2ac531e848f74fe6e193a90a.svg",
+    "static/media/blog1.svg": "/static/media/blog1.6ab8c38e3ce46aa8e377dbe73e5e0a7b.svg",
+    "static/media/blog3.svg": "/static/media/blog3.aa6c5a9cc964228acfd89a568254f490.svg",
+    "static/media/blog2.svg": "/static/media/blog2.a01e6de629f62d29d69950d21f064703.svg",
+    "static/media/blog4.svg": "/static/media/blog4.5b55f61d6f674ee0920c9d6338c7553b.svg",
+    "static/media/Illustration.svg": "/static/media/Illustration.1925b6f56a5357c1b4940f38b140be85.svg",
+    "static/media/Manrope-Regular.ttf": "/static/media/Manrope-Regular.a9b9e09fe6b69741f316.ttf",
+    "static/media/Manrope-Bold.ttf": "/static/media/Manrope-Bold.47f6d7143da9d8c0e480.ttf",
+    "static/media/Manrope-Light.ttf": "/static/media/Manrope-Light.2bf511c25636c7d7a4ce.ttf",
+    "static/media/google.svg": "/static/media/google.9bf67e20b0fe3c4e3cc4c7f8ecff324e.svg",
+    "static/media/atlassian.svg": "/static/media/atlassian.ca6d0f45450e0fbacda367c5b3681647.svg",
+    "static/media/dropbox.svg": "/static/media/dropbox.443f730dc97af16531a752c87942444f.svg",
+    "static/media/shopify.svg": "/static/media/shopify.4a00e06976933e69d68a169c6f539517.svg",
+    "static/media/slack.svg": "/static/media/slack.2258b8b583f74b640c879869eb20e393.svg",
+    "static/media/logo.svg": "/static/media/logo.f5c4baa1104bbd5446ce4aeb8355d042.svg",
+    "static/media/what_is_gpt_3_bg.svg": "/static/media/what_is_gpt_3_bg.a71e1545f87535cba87e.svg",
+    "index.html": "/index.html",
+    "static/media/gradient_line.svg": "/static/media/gradient_line.bdf31286b69142525e4a.svg",
+    "main.cd4de5da.css.map": "/static/css/main.cd4de5da.css.map",
+    "main.b1482183.js.map": "/static/js/main.b1482183.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd4de5da.css",
+    "static/js/main.b1482183.js"
+  ]
+}
